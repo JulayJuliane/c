@@ -1,0 +1,15 @@
+C:\Users\Juliane\Orientação a objetos\03ExercícioEscolar\obj\Debug\net7.0\03ExercícioEscolar.csproj.AssemblyReference.cache
+C:\Users\Juliane\Orientação a objetos\03ExercícioEscolar\obj\Debug\net7.0\03ExercícioEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliane\Orientação a objetos\03ExercícioEscolar\obj\Debug\net7.0\03ExercícioEscolar.AssemblyInfoInputs.cache
+C:\Users\Juliane\Orientação a objetos\03ExercícioEscolar\obj\Debug\net7.0\03ExercícioEscolar.AssemblyInfo.cs
+C:\Users\Juliane\Orientação a objetos\03ExercícioEscolar\obj\Debug\net7.0\03ExercícioEscolar.csproj.CoreCompileInputs.cache
+C:\Users\Juliane\Orientação a objetos\03ExercícioEscolar\bin\Debug\net7.0\03ExercícioEscolar.exe
+C:\Users\Juliane\Orientação a objetos\03ExercícioEscolar\bin\Debug\net7.0\03ExercícioEscolar.deps.json
+C:\Users\Juliane\Orientação a objetos\03ExercícioEscolar\bin\Debug\net7.0\03ExercícioEscolar.runtimeconfig.json
+C:\Users\Juliane\Orientação a objetos\03ExercícioEscolar\bin\Debug\net7.0\03ExercícioEscolar.dll
+C:\Users\Juliane\Orientação a objetos\03ExercícioEscolar\bin\Debug\net7.0\03ExercícioEscolar.pdb
+C:\Users\Juliane\Orientação a objetos\03ExercícioEscolar\obj\Debug\net7.0\03ExercícioEscolar.dll
+C:\Users\Juliane\Orientação a objetos\03ExercícioEscolar\obj\Debug\net7.0\refint\03ExercícioEscolar.dll
+C:\Users\Juliane\Orientação a objetos\03ExercícioEscolar\obj\Debug\net7.0\03ExercícioEscolar.pdb
+C:\Users\Juliane\Orientação a objetos\03ExercícioEscolar\obj\Debug\net7.0\03ExercícioEscolar.genruntimeconfig.cache
+C:\Users\Juliane\Orientação a objetos\03ExercícioEscolar\obj\Debug\net7.0\ref\03ExercícioEscolar.dll

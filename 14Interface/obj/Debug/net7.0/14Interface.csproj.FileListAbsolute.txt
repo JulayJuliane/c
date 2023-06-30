@@ -1,0 +1,15 @@
+C:\Users\Juliane\Orientação a objetos\14Interface\obj\Debug\net7.0\14Interface.csproj.AssemblyReference.cache
+C:\Users\Juliane\Orientação a objetos\14Interface\obj\Debug\net7.0\14Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliane\Orientação a objetos\14Interface\obj\Debug\net7.0\14Interface.AssemblyInfoInputs.cache
+C:\Users\Juliane\Orientação a objetos\14Interface\obj\Debug\net7.0\14Interface.AssemblyInfo.cs
+C:\Users\Juliane\Orientação a objetos\14Interface\obj\Debug\net7.0\14Interface.csproj.CoreCompileInputs.cache
+C:\Users\Juliane\Orientação a objetos\14Interface\bin\Debug\net7.0\14Interface.exe
+C:\Users\Juliane\Orientação a objetos\14Interface\bin\Debug\net7.0\14Interface.deps.json
+C:\Users\Juliane\Orientação a objetos\14Interface\bin\Debug\net7.0\14Interface.runtimeconfig.json
+C:\Users\Juliane\Orientação a objetos\14Interface\bin\Debug\net7.0\14Interface.dll
+C:\Users\Juliane\Orientação a objetos\14Interface\bin\Debug\net7.0\14Interface.pdb
+C:\Users\Juliane\Orientação a objetos\14Interface\obj\Debug\net7.0\14Interface.dll
+C:\Users\Juliane\Orientação a objetos\14Interface\obj\Debug\net7.0\refint\14Interface.dll
+C:\Users\Juliane\Orientação a objetos\14Interface\obj\Debug\net7.0\14Interface.pdb
+C:\Users\Juliane\Orientação a objetos\14Interface\obj\Debug\net7.0\14Interface.genruntimeconfig.cache
+C:\Users\Juliane\Orientação a objetos\14Interface\obj\Debug\net7.0\ref\14Interface.dll

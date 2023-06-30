@@ -1,0 +1,15 @@
+C:\Users\Juliane\Orientação a objetos\04ExercícioIMC\obj\Debug\net7.0\04ExercícioIMC.csproj.AssemblyReference.cache
+C:\Users\Juliane\Orientação a objetos\04ExercícioIMC\obj\Debug\net7.0\04ExercícioIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliane\Orientação a objetos\04ExercícioIMC\obj\Debug\net7.0\04ExercícioIMC.AssemblyInfoInputs.cache
+C:\Users\Juliane\Orientação a objetos\04ExercícioIMC\obj\Debug\net7.0\04ExercícioIMC.AssemblyInfo.cs
+C:\Users\Juliane\Orientação a objetos\04ExercícioIMC\obj\Debug\net7.0\04ExercícioIMC.csproj.CoreCompileInputs.cache
+C:\Users\Juliane\Orientação a objetos\04ExercícioIMC\bin\Debug\net7.0\04ExercícioIMC.exe
+C:\Users\Juliane\Orientação a objetos\04ExercícioIMC\bin\Debug\net7.0\04ExercícioIMC.deps.json
+C:\Users\Juliane\Orientação a objetos\04ExercícioIMC\bin\Debug\net7.0\04ExercícioIMC.runtimeconfig.json
+C:\Users\Juliane\Orientação a objetos\04ExercícioIMC\bin\Debug\net7.0\04ExercícioIMC.dll
+C:\Users\Juliane\Orientação a objetos\04ExercícioIMC\bin\Debug\net7.0\04ExercícioIMC.pdb
+C:\Users\Juliane\Orientação a objetos\04ExercícioIMC\obj\Debug\net7.0\04ExercícioIMC.dll
+C:\Users\Juliane\Orientação a objetos\04ExercícioIMC\obj\Debug\net7.0\refint\04ExercícioIMC.dll
+C:\Users\Juliane\Orientação a objetos\04ExercícioIMC\obj\Debug\net7.0\04ExercícioIMC.pdb
+C:\Users\Juliane\Orientação a objetos\04ExercícioIMC\obj\Debug\net7.0\04ExercícioIMC.genruntimeconfig.cache
+C:\Users\Juliane\Orientação a objetos\04ExercícioIMC\obj\Debug\net7.0\ref\04ExercícioIMC.dll
